@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.TodoListItem {
+  display: flex;
+  flex-direction: row;
+}
+
+.TodoListItem span {
+  flex: 1;
+  margin: 10px;
+}
+.header {
+  background: grey;
+}
