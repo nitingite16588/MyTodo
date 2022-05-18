@@ -4,7 +4,9 @@ const TodoList = (props) => {
   console.log('in TodoList');
   console.log(props.list);
   return (
-    <div>
+    <div> 
+
+      
       <div className="TodoListItem header">
         <span> Edit</span>
         <span> Title</span>
